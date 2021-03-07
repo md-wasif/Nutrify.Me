@@ -9,4 +9,4 @@ REST API for the input of calories.
 - Each entry should have an extra boolean field set to true if the total for that day is less than expected number of calories per day, otherwise should be false
 - The API must be able to return data in the JSON format
 # Front End
-[The API must be able to return data in the JSON format]
+[https://github.com/md-wasif/front-end-Nutrify.Me]
